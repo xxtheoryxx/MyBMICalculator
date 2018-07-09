@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="resetdata">Reset Data</string>
+    <string name="height">Height (e.g: 1.8)</string>
+    <string name="weight">Weight (e.g: 105)</string>
+</resources>
